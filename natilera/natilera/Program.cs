@@ -5,7 +5,7 @@ public class natillera
     static void Main(string[] args)
     {
         // declaracion de variables
-
+        //a
         DateTime fechaActual = DateTime.Now;
         decimal rendimientoMes, bonoMes = 0, ahorroMes, rendimientoAño = 0, ahorroAño = 0, bonoAño = 0, ahorroTtal = 0;
         int r, contador = -1;
